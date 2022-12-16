@@ -1,6 +1,7 @@
 module Main where
 
 import System.Environment
+import Scanner
 
 main :: IO ()
 main = do
